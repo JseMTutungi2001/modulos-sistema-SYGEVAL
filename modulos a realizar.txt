@@ -1,0 +1,225 @@
+Modulos
+
+les explicare lo que va en cada modulo, ustedes vayan escogiendo un modulo
+y basense primero en los fundamental de ese modulo.
+
+recuerden todos lso modulos son importantes pondre todos pero aja primero 
+los mas importantes.
+
+ las cosas que no les comente es por que no se eactamente a que se refiera
+pero busquen hacerse una idea busquen la logica xd, pero en serio es que 
+algunas se pueden referir a muchas cosas o depende de planillas
+las cuales no tenemos o que se yo.
+
+A)[Notas]
+
+
+
+1) incluir y modificar notas de lapso.(para cortes de nota)
+
+2) Notas de lapso definitivas.
+
+3)Importar notas de lapso(osea llevarlas a un documento world, pdf y 
+todo eso)
+
+4) notas educacion inicial(es decir las notas finales de primaria de cada
+alumno)
+
+5)incluir,modificar, consultar y eliminar Notas certificadas.
+(recuerden que la eliminacion debe ser con flex-none, debido que debemos
+hacer que no se muestre en el sistema pero si se mantenga en la base 
+de datos, esto va con todas las eliminaciones que se vayan a hacer)
+
+6) convertir notas historicas (diseño curricular)
+(esto supongo se refiere a nose sera convertir las notas que ya hay en
+documento world, pdf y hojas de calculo no se)(esta se ve dificil asi 
+que no se es opcional creo
+
+
+
+  
+B) [Estadisticas]
+
+
+
+aqui es dodne se clasifican los estudiantes, es decir donde se busca
+a tal estudiante y se clasificann y donde cuando ya encontramos al 
+estudiante debe aparecer toda su informacion.
+
+1) estadisticas por edad, sexo y nacionalidad.
+
+2) estadisticas por nota de lapso. osea los promedios de lapso
+
+3)cuadro de honor(aqui deberiamos hacer una lista de como 10 estudiantes
+con los mejores promedios. y si ven tiene una flechita. de alli debemos
+poner para clasificar los 3 mejores de cada año si es un peo pues pero que mas
+eso lo usan mucho para las condecoraciones en las graduaciones lo note
+en la graduacion de nosotros.
+
+4)cuadro de rendimiento de evaluacion final (bueno eso se explica solo
+
+5) estadistica por resumen de evaluacion final. (osea las estadisticas
+es decir en la evaluacion final hubieron tantos estudiantes que sacaron
+de promedio 16 y debemos mostrar los estudiante que sacaron ese promedio 
+en la evaluacion final
+
+
+
+C) [consultas e informes]
+
+
+
+1) nominas de notas de lapso
+
+2) nominas de ajuste de lapso
+
+3) boletines y contancias de notas de lapso
+
+4)boletines cualitativos y cuantitativos
+
+5) estudiants inscritos en el año escolar en curso.(es decir debe l
+levarnos a la lista de estudiantes que se han escrito en ese año hasta ese momento
+mientras que esa lista debe acchivarse y actualizarse que quiere decir
+que si estamo en el 2020 no me va a salir la del 2019 y mientras vaya 
+agregando debe irse guardando.
+ 
+
+6) archivo general de estudiantes(hsitorico) [es decir alli saldran 
+toda la lista de estudiantes con sus notas, nombres, informacion de todos 
+los estudiantes.
+
+7)representantes agregados en el año en curso.
+
+8) crear achivo en excel para opsu - SNI
+
+9) exportar datos a excel.
+
+10)informe de resumen final para el año en curso.
+
+
+
+[D] [Archivos de estudiantes]
+
+1) incluir, modificar y matricular estudiantes. (es decir incluir estudiantes
+a una matricula o cambiarlo de matricula o crear nueva matricula y asi)
+
+2) retiro (egreso) de estudiantes, alli suopngo debe salir la planilla
+para egresar un estudiante, la lista de estudiantes egresados y asi por el 
+estilo nose ustedes vean no se todo haecrca de eso de todas formas poco 
+a poco lo vamos modificando.
+
+3) Lista de estudiantes ingreesados y egresado 
+(del año anterior al que se esta cursando.)
+
+4) archivo de estudiantes repipientes.
+
+5) archivo de estudiantes materia pendiente.
+
+6)archivo de estudiantes materia pendiente cursante por (momentoss)
+
+7) archivo de estudiantes materia pendiente no cursante por (momentos)
+
+8)archivo de asignaturas exoneradas por seccion
+
+9) archivo de asignaturas exoneradas por estudiantes.
+
+10) archivo de programas E.T. exonerdos por seccion
+
+11) archivo deestudiantes que pierden aignaturas por inasistencias(archivo
+109) nose que mierda es esa supongo haremos un archivo alli de los estudiantes
+que a partir de tantas inasistencias han perdido las asiganturas, aunque 
+recomiendo que solo se pueda incluir, modificar y eliminar por que si 
+nos ponemos a que el sistema mismo haga ese procedimiento de tomar despues
+de tantas inasistencias en una materia los repruebe sera un peo y puede que
+se tome tiempo en eso asi que nose opr ahroa lo basico .
+
+12) archivo de valroes sustitutos para la c.i (pasaporte, 
+carnet diplomatico, etc)
+
+13) archivos de observacion para planillas de resumen final
+
+
+[modulos un poco menos importantes]
+
+ [ planillas]
+
+1) crar y modificar archivos de impresion planillas de resumen final
+(en revision)
+2) crear y modificr archivos de impresion planillas de resumen fianl
+(final o culminado)
+
+2.3) estudiantes con asignaturas aplazadas en revision
+
+3)  actualizar notas certificadas segun archivos de impresion de 
+final-revision
+
+4) educacion inicial y educacion primaria.
+
+5) matricula iniciar educacion media, (crear e imrpimir)
+
+6) imprimir planilla modificacion a la matricula
+
+7)imprimir resumen de evaluacion final (final-revision)
+
+8)imprimir resumen de evaluacion final (materia pendiente por momento)
+
+9) certificados de calificaciones y notas simples.
+
+10) hoja de registro, acte de revision de documentos y titulos.
+
+11)cambiar formatos para planillas (matricula, resumen, certificados, etc)
+
+
+
+
+[archivos]
+
+1)configuracion de sistema y archivos basicos (educacion media)
+
+2) configuracion de formatos y predeterminados
+
+3) archivos generales de profesores.
+
+4) distribucion de catedra.
+
+5) archivo general de representantes 
+
+6) archivo ocupaciones para representantes.
+
+7) archivo catalogo de planteles 
+
+8)configurar impresion
+
+9)configurar pagina
+
+10)guardar 
+
+11)guardar como
+
+12)seleccionar todo.
+
+
+
+[sistema]
+
+1) acerca de....
+
+2) mantenimiento del sistema.
+
+3) modificar informes(boletines, nominas, etc)
+
+4) politicas Sygeval
+
+5)promocion de estudiantes al proximo año escolar.
+
+6)exportar datos SAE profesor.
+
+7) importar datos desde excel
+
+8) conexiones internet.
+
+9) configuracion de nuevo diseño curricular 2017-2018
+
+10)videos tutoriales SYGEVAL.
+
+11)mejorar y actualizar sistema.
